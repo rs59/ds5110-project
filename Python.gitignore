@@ -1,3 +1,11 @@
+# ds5110 raw data
+raw_data/
+# ds5110 processed data
+processed_data/
+
+# ds5110 created models
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
