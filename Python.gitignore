@@ -5,7 +5,7 @@ processed_data/
 # ds5110 created models
 models/
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # parquet and csv
 *.parquet/
