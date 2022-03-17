@@ -6,6 +6,7 @@ processed_data/
 models/
 
 .ipynb_checkpoints/
+Archive/.ipynb_checkpoints/
 
 # parquet and csv
 *.parquet/
