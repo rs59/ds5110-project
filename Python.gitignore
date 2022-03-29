@@ -2,6 +2,8 @@
 raw_data/
 # ds5110 processed data
 processed_data/
+.parquet
+.parquet/
 # ds5110 created models
 models/
 
